@@ -1,5 +1,5 @@
 # cafe-menu
-I just built a responsive Cafe Menu website using HTML & CSS ☕✨
+I just built a responsive Cafe Menu website using HTML & CSS ☕✨ 
 
 This is part of my FreeCodeCamp Responsive Web Design journey.
 
